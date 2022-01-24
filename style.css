@@ -64,11 +64,31 @@ background-color: #e85ced;
     .big{
         height: 100%;
         width: 50%;
+        background-color: #6b5d3e;
     }
 
     .small{
         height: 50%;
         width: 25%;
+    }
+
+    .bgcolor1 {
+        background-color: #edbf5c;
+    }
+    
+    .bgcolor2{
+        background-color: #fabb34;
+    }
+    
+    .bgcolor3{
+        background-color: #ffe2a3;
+    }
+    
+    .bgcolor4{
+        background-color: #fcf0d7;
+    }
+    .bgcolor5{
+    background-color: #b5800d
     }
 
 }
