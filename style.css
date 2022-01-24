@@ -20,18 +20,37 @@
     width: 100%;
     background-color: #d09df5;
     border: solid 2px black;
+    text-align: center;
     
 }
 
 .small {
     height: 25%;
     width: 50%;
-    background-color: #cf67f5;
     border: solid 1px black;
-   
+    text-align: center;
 }
 
+.bgcolor1 {
+    background-color: #9267c7;
+}
 
+.bgcolor2{
+    background-color: #c498fa;
+}
+
+.bgcolor3{
+    background-color: #ceb7eb;
+}
+
+.bgcolor4{
+    background-color: #ea9aed;
+}
+.bgcolor5{
+background-color: #e85ced;
+}
+
+/* didesniam eranui nei mobilus */
 
 @media (min-width: 480px){
 
